@@ -1,0 +1,6 @@
+Cliente 0010254: compra 1000 ações WCT
+Cliente 0017222: vende 500 ações ABC
+Cliente 0012005: compra 2000 ações ABC
+Cliente 0012006: compra 355 ações ABC
+Cliente 0017223: vende 1000 ações ABC
+Cliente 0017224: vende 232 ações ABC
